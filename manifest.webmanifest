@@ -1,0 +1,9 @@
+{
+  "name": "Taekook Library",
+  "short_name": "Taekook",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#100d18",
+  "theme_color": "#21152f",
+  "icons": []
+}
